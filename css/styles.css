@@ -56,6 +56,7 @@ a:hover {
 }
 
 .middle-container {
+  margin: 70px 0;
 }
 
 .bottom-container {
@@ -117,8 +118,6 @@ a:hover {
 }
 
 .btn {
-   margin-top: 10px;
-   margin-bottom: 70px;
    border-radius: 10px;
    height: 5px;
    line-height: 5px;
